@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Components/CButton.qml</file>
+        <file>Components/IconWithTitle.qml</file>
+        <file>Screens/Home.qml</file>
+        <file>Screens/Blutooth.qml</file>
+        <file>Screens/Update.qml</file>
+        <file>Screens/Settings.qml</file>
+        <file>Components/CStackView.qml</file>
+        <file>Components/SideBarButtons.qml</file>
+        <file>Components/ResponsiveLayout.qml</file>
+        <file>Assets/Icons/bluetooth.png</file>
+        <file>Assets/Icons/home.png</file>
+        <file>Assets/Icons/settings.png</file>
+        <file>Assets/Icons/update.png</file>
+        <file>Assets/Images/dongle.png</file>
+        <file>Assets/Images/speaker.png</file>
+        <file>Assets/Icons/battery.png</file>
+        <file>Assets/Icons/bluetoot.png</file>
+        <file>Assets/Icons/usb.png</file>
+        <file>Assets/Icons/download.png</file>
+        <file>Assets/Icons/homes.png</file>
+        <file>Assets/Icons/sett.png</file>
+        <file>Models/ConnectModel.qml</file>
+        <file>Models/ConnectDelegate.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Assets/Icons/icons8-cloud-cross-24.png</file>
+        <file>Assets/Icons/icons8-ok-30.png</file>
+        <file>Models/NotConnectedModel.qml</file>
+        <file>Assets/Icons/icons8-refresh-30.png</file>
+        <file>Components/IconButton.qml</file>
+        <file>Assets/Icons/greyHome.png</file>
+        <file>Assets/Icons/backhome.png</file>
+        <file>Assets/Icons/icons8-info-50.png</file>
+        <file>Components/CCheckBox.qml</file>
+        <file>Assets/Icons/icons8-plus-50.png</file>
+        <file>Assets/Icons/icons8-plus-48.png</file>
+        <file>Assets/Images/18362309891600040225-512.png</file>
+        <file>Assets/Images/Microsoft_Teams-Logo.wine.png</file>
+    </qresource>
+</RCC>
